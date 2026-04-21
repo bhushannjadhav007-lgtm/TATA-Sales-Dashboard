@@ -1,8 +1,5 @@
 # 📊 TATA Sales Dashboard Project
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/TATA-Sales-Dashboard)
-![GitHub stars](https://img.shields.io/github/stars/your-username/TATA-Sales-Dashboard?style=social)
-
 ---
 
 ## 📌 Project Overview
