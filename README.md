@@ -1,5 +1,7 @@
 # 📊 TATA Sales Dashboard Project
 
+---
+
 ## 📌 Project Overview
 
 This project focuses on analyzing sales data and building an interactive dashboard to generate meaningful business insights. It helps in understanding sales performance, identifying trends, and supporting data-driven decisions.
@@ -44,7 +46,7 @@ This project focuses on analyzing sales data and building an interactive dashboa
 
 ```
 
-<img width="1125" height="629" alt="Screenshot 2026-04-05 133402" src="https://github.com/user-attachments/assets/38e2ef6f-3af8-48c6-981e-69789f54db51" />
+<img width="1125" height="629" alt="Screenshot 2026-04-05 133402" src="https://github.com/user-attachments/assets/bc6594f3-1ff9-497a-9ee9-67005cd1ddf8" />
 
 ```
 
