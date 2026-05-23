@@ -43,12 +43,7 @@ This project focuses on analyzing sales data and building an interactive dashboa
 
 ## 📊 Dashboard Preview
 
-
-```
-
 ![Dashboard Preview](https://github.com/user-attachments/assets/bc6594f3-1ff9-497a-9ee9-67005cd1ddf8)
-
-```
 
 ---
 
