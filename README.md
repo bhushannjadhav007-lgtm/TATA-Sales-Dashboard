@@ -46,7 +46,7 @@ This project focuses on analyzing sales data and building an interactive dashboa
 
 ```
 
-<img width="1125" height="629" alt="Screenshot 2026-04-05 133402" src="https://github.com/user-attachments/assets/bc6594f3-1ff9-497a-9ee9-67005cd1ddf8" />
+!<img width="1125" height="629" alt="Screenshot 2026-04-05 133402" src="https://github.com/user-attachments/assets/bc6594f3-1ff9-497a-9ee9-67005cd1ddf8" />
 
 ```
 
